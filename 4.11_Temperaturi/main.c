@@ -22,5 +22,4 @@ int main()
     }
     printf("Nr de zile cu temp pozitive: %d\n",count1);
     printf("Nr de schimbari de semn: %d",count2);
-    return 0;
 }
